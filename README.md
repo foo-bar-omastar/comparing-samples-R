@@ -6,7 +6,7 @@ The problem statement is taken from Chapter 11 (Comparing Two Samples) Question 
 
 ### Data Description 
 
-The data set bodytemp contains information about the body temperature, measured in degrees Fahrenheit, and the heart rates, measured in beats per minutes of 130 people. Among those people 65 are males (coded by 1), and 65 are females (coded by 2). In this assignment we will study if there are differences in body temperature and heart rate between the two genders.
+The data set bodytemp contains information about the body temperature, measured in degrees Fahrenheit, and the heart rates, measured in beats per minutes of 130 people. Among those people 65 are males (denoted as 1 in dataset), and 65 are females (denoted as 2 in dataset). In this assignment we will study if there are differences in body temperature and heart rate between the two genders.
 
 ### Problem Statement : 
 
